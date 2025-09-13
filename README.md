@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Justin Salvi  
 
 #### 🔐 About Me  
-I’m a cybersecurity professional with 5+ years of IT experience. My focus is on **cyber defense, automation, and data protection**, and I’m currently pursuing my **Master’s in Cybersecurity & Information Assurance at WGU**.  
+I’m a system solutions professional with 5+ years of IT experience. My focus is on **cyber defense, automation, and data protection**, and I’m currently pursuing my **Master’s in Cybersecurity & Information Assurance at WGU**.  
 
 I hold multiple CompTIA certifications — **Security+ | PenTest+ | CySA+ | CASP+ (SecurityX)** — and I’m actively preparing for the **CISSP**.
 
