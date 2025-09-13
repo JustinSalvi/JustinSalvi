@@ -3,7 +3,7 @@
 #### 🔐 About Me  
 I’m a system solutions professional with 5+ years of IT experience. My focus is on **cyber defense, automation, and data protection**, and I’m currently pursuing my **Master’s in Cybersecurity & Information Assurance at WGU**.  
 
-I hold multiple certifications — **Security+ | PenTest+ | CySA+ | CASP+ (SecurityX) | AZ900** — and I’m actively preparing for the **CISSP**.
+I hold multiple certifications — **AZ900 | Security+ | PenTest+ | CySA+ | CASP+ (SecurityX)** — and I’m actively preparing for the **CISSP**.
 
 ---
 
