@@ -17,8 +17,8 @@ I hold multiple CompTIA certifications — **Security+ | PenTest+ | CySA+ | CASP
 ---
 
 #### 🧪 Projects & Labs    
-- **👥 AD User Automation Script** — PowerShell script to provision users in a domain controller environment (showcased on GitHub)
-    - [https://github.com/JustinSalvi/Active-Directory]
+- **👥 AD User Automation Script** — PowerShell script to provision users in a domain controller environment
+    - [Active Directory Project](https://github.com/JustinSalvi/Active-Directory)
 
 ---
 
