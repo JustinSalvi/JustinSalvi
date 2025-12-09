@@ -31,4 +31,4 @@ I hold multiple certifications — **AZ900 | Security+ | PenTest+ | CySA+ | CASP
 
 #### 🤝 Let’s Connect  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/justin-salvi-269037207/)
-- 💻 [GitHub Projects](https://github.com/JustinSalvi)  
+- 💻 [GitHub Projects]([https://github.com/JustinSalvi](https://github.com/JustinSalvi?tab=repositories))  
