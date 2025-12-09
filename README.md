@@ -24,7 +24,7 @@ I hold multiple certifications — **AZ900 | Security+ | PenTest+ | CySA+ | CASP
 
 #### 📚 Currently Learning  
 - Studying for **CISSP certification**  
-- Expanding into **Data Loss Prevention (DLP)** engineering and **cloud security automation**  
+- Expanding into **Data Loss Prevention (DLP) Cyber Engineering and Cloud Security Automation**  
 - Exploring advanced detection using **MITRE ATT&CK mapping** and **threat hunting techniques**  
 
 ---
