@@ -19,7 +19,7 @@ I hold multiple certifications — **AZ900 | Security+ | PenTest+ | CySA+ | CASP
 #### 🧪 Projects & Labs    
 - **👥 AD User Automation Script** — PowerShell script to provision users in a domain controller environment
     - [Active Directory Project](https://github.com/JustinSalvi/Active-Directory)
-- **🍯 Deploying a T-Pot (Honeypot VM)** — Deployed T-pot to capture real-time data of attacker's TTP's
+- **🍯 T-Pot Deployment (Honeypot VM)** — Deployed T-pot to capture real-time data of attacker's TTP's
     - [T-pot Deployment Project](https://github.com/JustinSalvi/T-Pot-Project)
 
 ---
